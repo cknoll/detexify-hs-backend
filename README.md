@@ -1,3 +1,6 @@
+*Note of the forker:* This is the fork of the backend running at <http://detexify.kirelabs.org/classify.html>. This forked repo serves as a playground to understand the mechanics of the conversion of handdrawn symbols to TeX code.
+
+
 # Detexify Backend Server implemented in Haskell
 
 ## Requirements
